@@ -1,0 +1,31 @@
+[[pylon_julia_wrapper]]
+arch = "x86_64"
+git-tree-sha1 = "68fb15b030017fae0f23566e092602d55a3fd97b"
+julia_version = "1.6.0"
+os = "macos"
+
+    [[pylon_julia_wrapper.download]]
+    sha256 = "d44fbbd643ed2c0d47a32c4dbcbf0b9dbe95e035eea9cd280afede9304bc4201"
+    url = "https://github.com/IHPSystems/pylon_julia_wrapper_jll.jl/releases/download/pylon_julia_wrapper-v0.5.0+0/pylon_julia_wrapper.v0.5.0.x86_64-apple-darwin-julia_version+1.6.0.tar.gz"
+[[pylon_julia_wrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "79815d8ffdc70b49587bdbd52307fbb9e6cdc851"
+julia_version = "1.6.0"
+libc = "glibc"
+os = "linux"
+
+    [[pylon_julia_wrapper.download]]
+    sha256 = "d101c6e467026ccd5929a621bc80b06557b9466f5f603b79e418ed1a83cf7d7f"
+    url = "https://github.com/IHPSystems/pylon_julia_wrapper_jll.jl/releases/download/pylon_julia_wrapper-v0.5.0+0/pylon_julia_wrapper.v0.5.0.x86_64-linux-gnu-cxx03-julia_version+1.6.0.tar.gz"
+[[pylon_julia_wrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5421f9a2503a913c810eb4994e4beffc434f4068"
+julia_version = "1.6.0"
+libc = "glibc"
+os = "linux"
+
+    [[pylon_julia_wrapper.download]]
+    sha256 = "972dc61e2aa023af37fca70f6aaddf627d0ae62bde1937bd07bfe9a204d01889"
+    url = "https://github.com/IHPSystems/pylon_julia_wrapper_jll.jl/releases/download/pylon_julia_wrapper-v0.5.0+0/pylon_julia_wrapper.v0.5.0.x86_64-linux-gnu-cxx11-julia_version+1.6.0.tar.gz"
